@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-2k8ksw9i"",
-  ""goal"": ""API status service for data cleanup"",
-  ""language"": ""rust"",
-  ""template"": ""rust-cli""
+    "name":  "specproj-2k8ksw9i",
+    "goal":  "API status service for data cleanup",
+    "language":  "rust",
+    "template":  "rust-cli"
 }
